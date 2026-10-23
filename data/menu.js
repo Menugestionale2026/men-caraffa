@@ -637,7 +637,7 @@ window.CARAFFA_MENU = {
         "de": "Marinara",
         "sl": "Marinara"
        },
-       "price": 6,
+       "price": 18,
        "allergens": [
         "A"
        ],
@@ -1573,7 +1573,8 @@ window.CARAFFA_MENU = {
       }
      ]
     }
-   ]
+   ],
+   "subtitle": null
   },
   {
    "id": "novita",
@@ -1683,8 +1684,8 @@ window.CARAFFA_MENU = {
        "price": 14,
        "allergens": [
         "A",
-        "G",
-        "C"
+        "C",
+        "G"
        ],
        "ingredients": [
         "crocche",
@@ -1962,7 +1963,8 @@ window.CARAFFA_MENU = {
       }
      ]
     }
-   ]
+   ],
+   "subtitle": null
   },
   {
    "id": "fritte",
@@ -2173,7 +2175,8 @@ window.CARAFFA_MENU = {
       }
      ]
     }
-   ]
+   ],
+   "subtitle": null
   },
   {
    "id": "panini",
@@ -2468,7 +2471,8 @@ window.CARAFFA_MENU = {
       }
      ]
     }
-   ]
+   ],
+   "subtitle": null
   },
   {
    "id": "fritti",
@@ -2659,7 +2663,8 @@ window.CARAFFA_MENU = {
       }
      ]
     }
-   ]
+   ],
+   "subtitle": null
   },
   {
    "id": "bevande",
@@ -3365,7 +3370,8 @@ window.CARAFFA_MENU = {
       }
      ]
     }
-   ]
+   ],
+   "subtitle": null
   },
   {
    "id": "dolci",
@@ -3997,7 +4003,8 @@ window.CARAFFA_MENU = {
       }
      ]
     }
-   ]
+   ],
+   "subtitle": null
   },
   {
    "id": "note",
@@ -4212,7 +4219,9 @@ window.CARAFFA_MENU = {
      "subtitle": null,
      "items": []
     }
-   ]
+   ],
+   "subtitle": null
   }
- ]
+ ],
+ "updatedAt": "2026-10-23T12:09:29.496Z"
 };
