@@ -637,7 +637,7 @@ window.CARAFFA_MENU = {
         "de": "Marinara",
         "sl": "Marinara"
        },
-       "price": 90,
+       "price": 6,
        "allergens": [
         "A"
        ],
@@ -4223,5 +4223,5 @@ window.CARAFFA_MENU = {
    "subtitle": null
   }
  ],
- "updatedAt": "2026-10-23T12:26:19.235Z"
+ "updatedAt": "2026-10-23T12:26:58.477Z"
 };
